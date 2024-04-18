@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/naolsime" target="blank"><img src="https://img.shields.io/twitter/follow/naolsime?logo=twitter&style=for-the-badge" alt="naolsime" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** 
 
 - 📫 How to reach me **naolsime89@gmail.com**
 
